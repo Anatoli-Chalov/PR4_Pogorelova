@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.04\PR4_Pogorelova\Assembling\Assembling\obj\Debug\Assembling.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.04\PR4_Pogorelova\Assembling\Assembling\obj\Debug\Assembling.csproj.CoreCompileInputs.cache

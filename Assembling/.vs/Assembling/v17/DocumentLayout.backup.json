@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR4_Pogorelova\\Assembling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0E5DCE-272E-4424-BF6C-E24BA4C3A0B7}|Assembling\\Assembling.csproj|c:\\users\\admin\\desktop\\\u00A0\\cod c\\mdk 01.04\\pr4_pogorelova\\assembling\\assembling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0E5DCE-272E-4424-BF6C-E24BA4C3A0B7}|Assembling\\Assembling.csproj|solutionrelative:assembling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR4_Pogorelova\\Assembling\\Assembling\\Program.cs",
+              "RelativeDocumentMoniker": "Assembling\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\\u00A0\\Cod C\\MDK 01.04\\PR4_Pogorelova\\Assembling\\Assembling\\Program.cs",
+              "RelativeToolTip": "Assembling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T18:31:04.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
